@@ -1,2 +1,3 @@
 # gerador_carteira_btc
-Programa para gerar wallet para guardar seus ativos criptograficos
+Um gerador de carteiras bitcoin, utilizando pares de chave pública e privada. 
+Cria endereços de depósito e de envio de bitcoin para a carteira gerada.
